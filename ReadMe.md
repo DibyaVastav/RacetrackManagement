@@ -27,8 +27,3 @@ If you are providing a solution without using the build file, we want you to nam
 
  The unit test coverage is found by the command :
 `coverage run -m unittest discover`
-
-# Help
-
-You can refer our help documents [here](https://help.geektrust.com)
-You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Python)
